@@ -1,0 +1,44 @@
+h3, h1, h2 {
+  color: #9D96B8;
+  font-family: 'Raleway', sans-serif;
+
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+
+}
+
+h1, h2, h3, h4, h5, h6, p, li  {
+
+}
+
+.menu ul{
+  list-style-type: none;
+  display: inline-flex;
+}
+
+.menu li {
+  padding: 10px;
+  text-align: center;
+}
+
+body {
+  background-color: #F1F7EE;
+}
+
+.menu a {
+  text-decoration: none;
+  color: #9D96B8;
+}
+
+.menu a:hover  {
+  text-decoration: underline;
+}
+
+img {
+}
+
+.header, .menu {
+  background-color: #EFA8B8;
+}
